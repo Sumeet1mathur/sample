@@ -9,10 +9,12 @@
     "userId": 1,
     "id": 2,
      "title": "COMP222",
-    "body": "Web Developement"  },
+    "body": "Web Developement"  
+  },
   {
     "userId": 1,
     "id": 3,
      "title": "COMPX302",
-    "body": "Mobile Application Development"  }
+    "body": "Mobile Application Development"  
+  }
 ]
