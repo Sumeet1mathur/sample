@@ -1,24 +1,18 @@
 {
-  "countries_capitals":[
+  "user_details":[
   {
-    "country":"India",
-    "capital":"New Delhi"
+    "user_id":"A101",
+    "given_name":"New Delhi"
   },
   {
-    "country":"Italy",
-    "capital":"Rome"
+   "user_id":"A102",
+    "given_name":"sjdhsjd"
   },
   {
-    "country":"Germany",
-    "capital":"Berlin"
-  },
-  {
-    "country": "Egypt",
-    "capital":"Cairo"
-  },
-  {
-    "country": "Australia",
-    "capital":"Canberra"
+    "user_id":"A103",
+    "given_name":"dskji"
   }
+  
+  
 ]
 }
