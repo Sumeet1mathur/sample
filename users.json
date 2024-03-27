@@ -1,5 +1,5 @@
-
-[
+{
+"user_details" :[
   {
     "user_id": "A001",
     "email": "ruiqi_bao@gmail.com",
@@ -91,3 +91,4 @@
     "email_verified": false
   }
 ]
+}
