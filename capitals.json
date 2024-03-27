@@ -1,19 +1,19 @@
 {
-  "user_details_fn":[
+  "user_details":[
   {
     "user_id":"A101",
-    "given_name":"Ruiqi"
-    "family_name": "Bao"
+    "given_name":"Ruiqi Bao"
+    
   },
   {
    "user_id":"A102",
-    "given_name":"kehao"
-    "family_name": "Shan"
+    "given_name":"kehao Shan"
+   
   },
   {
     "user_id":"A103",
-    "given_name":"Zhi"
-    "family_name": "Fu"
+    "given_name":"Zhi Fu"
+    
   }
   
   
