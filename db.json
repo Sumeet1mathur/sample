@@ -1,5 +1,5 @@
 {
-  {
+  
 "posts" :[
   {
     "user_id": "A001",
@@ -91,7 +91,6 @@
     "last_ip": "100.70.91.53",
     "email_verified": false
   }
-
   ],
   "profile": {
     "name": "sumeet"
