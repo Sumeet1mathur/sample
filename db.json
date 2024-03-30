@@ -1,15 +1,4 @@
 {
-  "posts": [
-    {
       "id": 1,
       "title": "Requi Bao"
     }
-    {
-      "id": 2,
-      "title": "Zhi fan"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
