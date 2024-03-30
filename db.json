@@ -2,10 +2,8 @@
   "posts": [
     {
       "user_id": 1,
-    "email": "ruiqi_bao@gmail.com",
-    "given_name": "Ruiqi",
-    "family_name": "Bao",
-    "nickname": "Ruib"
+    "email": "ruiqi_bao@gmail.com"
+   
         }
   ],
   "profile": {
