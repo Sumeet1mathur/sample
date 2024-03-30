@@ -1,4 +1,11 @@
 {
+  "posts": [
+    {
       "id": 1,
-      "title": "Requi Bao"
+      "title": "hello"
     }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
