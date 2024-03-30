@@ -2,12 +2,11 @@
   "posts": [
     {
       "id": 1,
-       "email": "ruiqi_bao@gmail.com",
-    "given_name": "Ruiqi",
-    "family_name": "Bao",
-    "nickname": "Ruib",
-    "last_ip": "94.121.163.63",
-    "email_verified": true
+      "title": "Requi Bao"
+    }
+    {
+      "id": 2,
+      "title": "Zhi fan"
     }
   ],
   "profile": {
